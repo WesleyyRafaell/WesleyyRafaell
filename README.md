@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-Meu nome é Wesley, sou aspirante a dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Meu foco é o js e tudo que se propõem a fazer, seja back-end (node.js), React.js, mobile (react native) e futuramente desktop (Electron).
+Meu nome é Wesley, sou aspirante a dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Meu foco é o js e tudo que ele se propõem a fazer, seja back-end (node.js), React.js, mobile (react native) e desktop (Electron).
 
 
 
