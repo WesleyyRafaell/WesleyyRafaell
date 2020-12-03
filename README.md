@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-<img src="image/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="img/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Meu nome é Wesley, aspirante a dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Meu foco é o js e tudo que ele se propõem a fazer, seja back-end (node.js), React.js, mobile (react native) e desktop (Electron).
