@@ -7,6 +7,18 @@
 </p>
 
 <p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, ReactJs, React Native, Node</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Netlify, Git e GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+</p>
+
+<p align="left">
   <a href="https://www.instagram.com/griffo_oficial/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
