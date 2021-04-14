@@ -3,16 +3,9 @@
 <img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Wesley, aspirante a dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Meu foco é o js e tudo que ele se propõem a fazer, seja back-end (node.js), React.js, mobile (react native) e desktop (Electron).
+  Meu nome é Wesley, dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Atualmente meu foco tem estado no js e em ferramentas como React.js e React Native.
 </p>
 
-<p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, ReactJs, React Native, Node</strong>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Netlify, Git e GitHub.</strong>
-</p>
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
