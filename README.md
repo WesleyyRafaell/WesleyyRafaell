@@ -3,7 +3,7 @@
 <img src="img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Wesley, dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas. Atualmente meu foco tem estado no js e em ferramentas como React.js e React Native.
+  Meu nome é Wesley, dev Front-end. Sou fissurado por iniciar novos projetos que me divertem e divertem as pessoas.
 </p>
 
 
