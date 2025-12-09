@@ -8,8 +8,10 @@
 
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em visitar meu portfólio ou me enviar uma mensagem: ⤵️
 </p>
+
+[Meu portfólio](wesley-santos.craft.me/cteAuuTXheX1fm)
 
 <p align="left">  
   
@@ -17,6 +19,8 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatowesley10s@gmail.com)](mailto:contatowesley10s@gmail.com)
   
 </p>  
+
+
 
 
 
