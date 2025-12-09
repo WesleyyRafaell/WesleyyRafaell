@@ -11,7 +11,8 @@
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em visitar meu portfólio ou me enviar uma mensagem: ⤵️
 </p>
 
-[Meu portfólio]([wesley-santos.craft.me/cteAuuTXheX1fm](https://wesley-santos.craft.me/cteAuuTXheX1fm))
+[Meu portfólio](https://wesley-santos.craft.me/cteAuuTXheX1fm)
+
 
 <p align="left">  
   
